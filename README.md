@@ -10,6 +10,7 @@ Ouvrez un terminal et tapez les lignes de commande ci-dessous
 
 # attention:
 si vous voulez couper les containers docker du projet
+
 6. cd socket.io/examples/cluster-nginx
 
 7. docker-compose down
