@@ -5,3 +5,7 @@ Ouvrez un terminal et tapez les lignes de commande ci-dessous
 3. docker-compose up -d
 4. ouvrir deux sessions sur http://localhost:3000
 5. bravo
+
+
+# si vous voulez supprimer les containers docker du projet
+6. docker-compose down
