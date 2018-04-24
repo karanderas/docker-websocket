@@ -7,5 +7,5 @@ Ouvrez un terminal et tapez les lignes de commande ci-dessous
 5. bravo
 
 
-# si vous voulez supprimer les containers docker du projet
+# supprimer les containers docker du projet
 6. docker-compose down
